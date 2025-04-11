@@ -1,0 +1,15 @@
+{
+  "name": "proxy-processor",
+  "version": "1.0.0",
+  "description": "代理服务器，提取JSON数据并发送到Python后端",
+  "main": "anyporxy_start.js",
+  "scripts": {
+    "start": "node anyporxy_start.js"
+  },
+  "private": true,
+  "dependencies": {
+    "anyproxy": "^4.1.3",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0"
+  }
+}
