@@ -56,7 +56,7 @@ Onlooker（旁观者直译）："不逆向、不干扰，只做一个安静的�
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/Onlooker.git
+git clone https://github.com/MonkeyFixesBug/Onlooker.git
 cd Onlooker
 ```
 
